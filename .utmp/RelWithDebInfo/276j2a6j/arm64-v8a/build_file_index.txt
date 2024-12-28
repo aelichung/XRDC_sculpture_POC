@@ -1,0 +1,2 @@
+C:\Users\a-e\wkspaces\MR_handbuilding_demo\XRDC_sculpture_POC\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\a-e\wkspaces\MR_handbuilding_demo\XRDC_sculpture_POC\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
