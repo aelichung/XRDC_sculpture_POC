@@ -1,0 +1,43 @@
+fileFormatVersion: 2
+guid: f32aa7cb5b22bf040b2249adbea53ba6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\drawing\AmphoraLineBlue_2025-01-04_18.11.23.bin
+    assetPath: Assets\drawing\AmphoraLineBlue_2025-01-04_18.11.23.bin
+  - type: 1
+    originalUri: Assets\drawing\AO.png
+    assetPath: Assets\drawing\AO.png
+  - type: 1
+    originalUri: Assets\drawing\Pill blur wide.png
+    assetPath: Assets\drawing\Pill blur wide.png
+  - type: 1
+    originalUri: Assets\drawing\image_0.png
+    assetPath: Assets\drawing\image_0.png
+  - type: 1
+    originalUri: Assets\drawing\4.png
+    assetPath: Assets\drawing\4.png
+  reportItems: []
